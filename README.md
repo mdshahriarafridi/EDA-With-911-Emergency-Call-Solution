@@ -18,5 +18,4 @@ Dataset Link: https://www.kaggle.com/datasets/mchirico/montcoalert
 12.	Which Week Day has most calls for EMS Problem?
 13.	Which week day has most calls for Traffic Problem calls
 14.	What amount of calls for on an hourly basis every day of the week?
-15.	What amount of calls for on an hourly basis every day of the week?
 
